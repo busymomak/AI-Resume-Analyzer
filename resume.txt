@@ -1,0 +1,4 @@
+Python developer with experience in Python, SQL, Git, data analysis,
+machine learning, APIs, and software development.
+
+Experience working with pandas, NumPy, and REST APIs.

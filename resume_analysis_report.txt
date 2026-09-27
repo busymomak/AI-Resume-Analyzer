@@ -1,0 +1,27 @@
+================================
+       RESUME ANALYSIS REPORT
+================================
+
+Overall Match: 75.0%
+
+MATCHING SKILLS
+--------------------------------
+[MATCH] python
+[MATCH] sql
+[MATCH] git
+[MATCH] machine learning
+[MATCH] apis
+[MATCH] data analysis
+
+MISSING SKILLS
+--------------------------------
+[MISSING] docker
+[MISSING] aws
+
+RECOMMENDATIONS
+--------------------------------
+Consider adding projects, coursework, or experience that demonstrates your missing skills.
+Consider developing or demonstrating experience with docker.
+Consider developing or demonstrating experience with aws.
+
+================================
